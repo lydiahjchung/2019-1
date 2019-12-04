@@ -1,4 +1,5 @@
 # 2019-1
+Finished projects in 2019-1 semester
 Artificial Intelligence - Nonogram Solver, Information Security - PGP, Operating Systems 
 
 ## Artificial Intelligence
